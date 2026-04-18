@@ -1,5 +1,5 @@
 # Sorting_Assignment
-Sorting_Assignment by Shai Meir Hershcovich 327782751 and Yarin Zinger 326566940
+Sorting_Assignment by Shai Meir Hershcovich and Yarin Zinger 
 
 The selected algorithms are : 1- Bubble Sort
                               4- Merge Sort
